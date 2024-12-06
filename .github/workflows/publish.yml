@@ -88,4 +88,4 @@ jobs:
 
           - name: Push Docker image
             run:
-              docker push ghcr.io/danielcarrascoortega/backend-calculator:latest
+              docker push ghcr.io/danielcarrascoortega/backend-calculator:latest 
